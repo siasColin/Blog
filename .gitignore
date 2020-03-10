@@ -7,5 +7,3 @@ target/
 .project
 .settings/
 .classpath
-/src/main/webapp/layim/lay/modules/layim.js
-/src/main/webapp/layim/lay/modules/mobile.js
